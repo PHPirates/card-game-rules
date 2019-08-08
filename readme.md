@@ -10,7 +10,7 @@ This repo aims to define rules of card games in an unambiguous way.
 
 | Game name  | Number of players |
 |---| --- |
-| [Cuttle](Cuttle.md) | 2 |
+| [Cuttle](cuttle.md) | 2 |
 
 
 ## Useful links
