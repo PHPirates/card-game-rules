@@ -1,17 +1,41 @@
 Cuttle 
 ======
 
-The exact origin of this unusual two-player game is unknown. It is described in Richard Sipie's [Cuttle FAQ](http://www.geocities.ws/richardsipie/cuttle.htm).
-
-He says he was taught the rules [in 1975](#this-game-has-similarities-with-magic-the-gathering).
-
 Rules taken and cleaned from: http://www.pagat.com/combat/cuttle.html
 
+Even though Cuttle is a game for two players, we have played it with three as well.
+With more it will become very hard to finish the game.
+
+## Cards
+
+The game is played with one standard deck.
+
+## Definitions
+* Increasing suit order: standard
+* Increasing rank order: A-2-3-4-5-6-7-8-9-10-J-Q-K
+* The A is worth 1 point, the cards in the range \[2,10\] are worth their number of points.
+
+## Play
+
+Play begins with the dealer, who deals six cards to himself and five to his opponent. The remaining cards go on a drawing deck. The opponent then takes the first turn.
+Next to the drawing deck there is a scrap pile, initially empty, in which cards can be put face-up.
+
+A player taking a turn has two options, to draw a card or to play a card.
+
+### Card actions
+
+In the case the player decides to play a card, he has the following options.
+
+1. Any card in the range \[A,10\] may be played as a *point card*. In this case, the player puts the card face-up on the table in front of him.
+
+2. Any numbered card in the range \[A,10\] may be played as a *scuttle*. In this case, it is played on top of any point card of the opponent which it exceeds in value. Both cards are then moved directly to the scrap pile.
+
+3. 
+
+------------------------------------------------------------------------
 
 Object 
 ------
-
-Cuttle is a game for 2 players, played with a simple 52-card pack.
 
 The aim is to be the first build a layout worth at least 21 points. Cards can be used for their point value, or to attack your opponent's layout by destroying or capturing cards.
 
@@ -19,28 +43,7 @@ The aim is to be the first build a layout worth at least 21 points. Cards can be
 Beginning the Round
 -------------------
 
-Play begins with the dealer, who deals six cards to himself and five to his opponent. This opponent then takes the first turn.
-
-On a turn, a player may play a card (see [card rules](#what-do-the-cards-do)), or draw one. If a player has **21 or more** points worth of "point cards" on the table at the end of his turn, that player is victorious - otherwise the turn passes to his opponent.
-
-What do the cards do?
----------------------
-
-1. Firstly: Any numbered card (A-10) may be played as a **point card**. In this case, the player puts the card face-up on the table in front of him, and it is worth as many points as the are spots on its face (1 for an ace, etc).
-
-2. Secondly: Any numbered card (A-10) may be played, instead, as a **scuttle**. In this case, it is played **on top** of a point card which it exceeds [in value](#card-values).:small_orange_diamond: Both cards are then moved directly to the scrap pile (**face up**, as is everything there).:small_blue_diamond:
-
-:small_orange_diamond: _The eight of hearts will scuttle the seven of spades, but not the eight of clubs._
-
-:small_blue_diamond: _Cards in the scrap pile have no controller, and do not effect the game in any way._
-
-
-### Card Values
-
-1. Suit order: :clubs: :diamonds: :hearts: :spades: (clubs, diamonds, hearts, spades)
-2. Rank order: A-2-3-4-5-6-7-8-9-10-J-Q-K
-
-_A helpful way to remember suit order is that they are alphabetical:_ **C-D-H-S**
+If a player has **21 or more** points worth of "point cards" on the table at the end of his turn, that player is victorious - otherwise the turn passes to his opponent.
 
 
 ### Point Cards
