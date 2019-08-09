@@ -15,4 +15,5 @@ This repo aims to define rules of card games in an unambiguous way.
 
 ## Useful links
 
-* 2-player games: https://www.pagat.com/number/2_players.html
+* List of 2-player games: https://www.pagat.com/number/2_players.html
+* Online playing (Spades, Euchre, Pitch, Hearts, Whist, 500, Pinochle, Oh Hell, Bridge): https://www.trickstercards.com/

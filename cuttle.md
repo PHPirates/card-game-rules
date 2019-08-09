@@ -13,7 +13,7 @@ The game is played with one standard deck.
 ## Definitions
 * Increasing suit order: standard
 * Increasing rank order: A-2-3-4-5-6-7-8-9-10-J-Q-K
-* The A is worth 1 point, the cards in the range \[2,10\] are worth their number of points.
+* The A is worth 1 point, the cards in the range \[2,10\] are worth their number of points. These will be called *point cards*.
 
 ## Play
 
@@ -22,71 +22,50 @@ Next to the drawing deck there is a scrap pile, initially empty, in which cards 
 
 A player taking a turn has two options, to draw a card or to play a card.
 
+### Winning
+
+If the player has a number of point cards in front of him with a total value of 21 or more, that player has won.
+
 ### Card actions
 
 In the case the player decides to play a card, he has the following options.
 
 1. Any card in the range \[A,10\] may be played as a *point card*. In this case, the player puts the card face-up on the table in front of him.
 
-2. Any numbered card in the range \[A,10\] may be played as a *scuttle*. In this case, it is played on top of any point card of the opponent which it exceeds in value. Both cards are then moved directly to the scrap pile.
+2. Any numbered card in the range \[A,10\] may be played as a *scuttle*. In this case, it is played on top of any point card of the opponent which it exceeds in value, or if it is equal in value it must exceed it in color. Both cards are then moved directly to the scrap pile.
 
-3. 
+3. Play an *action card*.
 
-------------------------------------------------------------------------
-
-Object 
-------
-
-The aim is to be the first build a layout worth at least 21 points. Cards can be used for their point value, or to attack your opponent's layout by destroying or capturing cards.
-
-
-Beginning the Round
--------------------
-
-If a player has **21 or more** points worth of "point cards" on the table at the end of his turn, that player is victorious - otherwise the turn passes to his opponent.
-
-
-### Point Cards
-
-The numbered cards may all be played as a one-off, **except for the eights and tens.** In this case, they are placed directly into the scrap pile, with the following effects:
+To make a distinction between point cards and action cards when on the table, place them in a different direction.
 
 Card  | Ability
 ----  | -------
-Ace   | Put all point cards on the table into the scrap pile.
-Two   | Place any card on the table into the scrap pile, except a point card. (In practice, Kings, Queens, Jacks and the "glasses" eight) or Place any one-off just played into the scrap pile. This occurs before the effect of that card is accomplished, and, uniquely, can be played during the opponents turn, as well as your own.
+Ace   | Put all point cards on the table on the scrap pile.
+Two   | Move any non-point card on the table to the scrap pile. 
 Three | Rummage through the scrap pile, taking a card of your choice into your hand.
-Four  | Opponent must discard two cards of his choice from his hand into the scrap pile.
+Four  | Draw two cards randomly from your opponent and move these to the scrap pile.
 Five  | You may draw two cards.
-Six   | All cards on the table except for point cards are moved into the scrap pile.
-Seven | Draw a card. You can and must play this drawn card immediately - whether as a point card, a scuttle, a one-off, whatever. If you are unable to play the card, it is discarded. (This may only happen in the event of drawing a Jack).
-Eight | 8 points and [these abilities](#eight-eyeglasses).
-Nine  | Return any permanent card to its controller's hand.
-Ten | Just worth 10 points. No special abilities.
+Six   | All played cards on the table except for point cards are moved into the scrap pile.
+Seven | Draw a card. You must play this drawn card immediately - whether as a point card, a scuttle, a one-off, whatever is allowed. If you are unable to play the card, it is discarded.
+Eight | Place this card in front of your opponent. While the card remains there, your opponent has to show all the cards in his hand to all other players. (Hint to remember: an 8 on its side looks like glasses.)
+Nine  | Return any effect card on the table to its controller's hand. This player may not play that card in his next turn, only in the turn after that.
+Jack  | Place it on top of a point card already on the table. With the jack on top, the card is moved across the table and is now owned by the opponent of its original owner.
+Queen | Place it on the table on your side. With a Queen in play, none of your other cards except the queen itself may be the target of opposing cards that target a single card (generally speaking) except scuttle cards. (For example, it protects against Jacks, twos, and nines but not Aces and Sixes, even if those happen to effect only one card.)
+King  | Played like Queens. With a King in play, a player can win with just 14 points worth of point cards on the table. With two Kings he needs just ten, with three, seven points, and with all four just five points! (To sum up, a player needs 21/(1.5^k) points to win, where k is the number of Kings controlled by that player).
 
-### Eight :eyeglasses:
+Note that a Ten cannot be played as an action card.
 
-As well as a point card, an eight too has a secondary use, although it is not a one-off. Instead, the card may be placed rather like a King or Queen, but at right angles to the opponent (and his other cards). This differentiates it from point card eights, and simultaneously makes it look like a pair of glasses! The effect is that the opponent must play with his hand exposed until he finds a way to transfer the eight to the scrap pile.
 
-### Royalty :crown:
+### Special counterattack rule
 
-Can only be played on your turn, and count as no points.
+During your opponents turn, you can play a Two to remove any non-point card he played in that same turn to the scrap pile.
 
-Card  | Ability
-----  | -------
-Jack  | Placed on top of a point card (A-10) already on the table. Kept there, the card is moved across the table and is now owned by the opponent of its original owner (who is generally your opponent!)
-Queen | Played on the table, like a point card. With a Queen in play, none of your other cards may be the target of opposing cards that target a single card. (Specifically: **Jacks, twos, and nines**). However, this offers no protection against those like aces that target more widely, even if there is only one card the table that will be affected. Nor do Queens offer any protection against scuttle attacks.
-King  | Played like Queens. With a King in play, a player can win with just 14 points worth of point cards on the table. With two Kings he needs just ten, with three, seven, and with all four just five points! (Mathematically, a player needs 21/(1.5^k) points to win, where k is the number of Kings controlled by that player).  
+### Special rule when the draw deck is empty
+
+When there are no more cards to be drawn, a player can either play a card or pass. When both players pass after each other, the game is a draw.
 
 FAQ
 ---
-
-### What happens if the pack is exhausted?
-
-> Although I am no authority, I can find no other guide to the question online. The rule I have played for twenty-five years is that it is unfair (and dull!) to end the game while a win may still be forced. Therefore, I play that "taking a card" in this situation becomes an effective pass, and that if three of these occur in a row, it is only then that the game is declared a draw.
-
-### Can I play a two to "counter" a point card? How about a scuttle?
-
-> The single most common question I am asked :-). Players who are used to Magic: The Gathering are often surprised to find out that this is not allowed - a two is not a universal counterspell. It may only "counter" a one-off, nothing else.
 
 ###  Do Queens protect against "countering" twos?
 
