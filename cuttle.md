@@ -1,7 +1,7 @@
 Cuttle 
 ======
 
-Rules taken and cleaned from: http://www.pagat.com/combat/cuttle.html
+Rules adapted from http://www.pagat.com/combat/cuttle.html
 
 Even though Cuttle is a game for two players, we have played it with three as well.
 With more it will become very hard to finish the game.
@@ -17,17 +17,18 @@ The game is played with one standard deck.
 
 ## Play
 
-Play begins with the dealer, who deals six cards to himself and five to his opponent. The remaining cards go on a drawing deck. The opponent then takes the first turn.
+### Deal
+Play begins with the dealer, who deals six cards to himself and five to his opponent. The remaining cards go on a drawing deck.
 Next to the drawing deck there is a scrap pile, initially empty, in which cards can be put face-up.
-
-A player taking a turn has two options, to draw a card or to play a card.
 
 ### Winning
 
 If the player has a number of point cards in front of him with a total value of 21 or more, that player has won.
 
-### Card actions
+### A turn
 
+The opponent of the dealer takes the first turn.
+A player taking a turn has two options, to draw a card or to play a card.
 In the case the player decides to play a card, he has the following options.
 
 1. Any card in the range \[A,10\] may be played as a *point card*. In this case, the player puts the card face-up on the table in front of him.
@@ -56,10 +57,14 @@ King  | Played like Queens. With a King in play, a player can win with just 14 p
 Note that a Ten cannot be played as an action card.
 
 
-### Special counterattack rule
+#### Special counterattack rule
 
 During your opponents turn, you can play a Two to remove any non-point card he played in that same turn to the scrap pile.
 
-### Special rule when the draw deck is empty
+#### Special rule when the draw deck is empty
 
 When there are no more cards to be drawn, a player can either play a card or pass. When both players pass after each other, the game is a draw.
+
+### Continuing play
+
+After the game has finished, the other player becomes dealer.
