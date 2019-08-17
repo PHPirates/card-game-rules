@@ -40,10 +40,16 @@ If everyone has passed again in round two, play starts again with the new dealer
 
 ### Finishing the bidding
 
-
+If the bidding stopped in round one, the card that is lying face up is added to the hand of the dealer, and he has to discard a card.
 
 ### Winning
 
+If you have bid without having declared to play the hand alone, your team gets 1 point for taking 3 or 4 tricks together, and 2 points for 5 tricks together.
+If you have bid with declaring to play the hand alone, you get 1 point for taking 3 or 4 tricks, and 4 points for taking 5 tricks.
+If you don't make your bid, the opponent team gets 2 points.
+
+The team that gets to 10 points first wins the game.
+
 ### Possible play options
 
-### Special rules
+The player to the left of the dealer starts, and continues with standard play with trump.

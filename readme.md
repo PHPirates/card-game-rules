@@ -9,6 +9,9 @@ This repo aims to define rules of card games in an unambiguous way.
 * For a certain suit S, the off-Jack (abbrev. offJ) is the Jack of the color T which is not equal to S, but which is red if S is red and black when S is black.
 * The standard direction of play is clockwise (negative direction).
 * A person P to the left of a person Q is sitting such that the left side of Q is facing towards P.
+* A trick is a set of cards where each player played one card in their turn. To take a trick means to have won that round of play.
+* Standard play without trump means that the highest card of the suit led wins.
+* Standard play with trump means that the highest trump card wins, and if there is no trump played then the highest card of the suit led wins.
 
 ## Games
 
