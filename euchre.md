@@ -1,4 +1,4 @@
-# name
+# Euchre
 
 Rules adapted from https://www.euchre.trickstercards.com/game
 
