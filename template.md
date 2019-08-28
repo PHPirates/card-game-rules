@@ -6,6 +6,7 @@ Rules adapted from
 
 ## Cards
 
+<!--The game is played with the numbers \[9, A\] (standard rank order) of a standard deck.-->
 The game is played with one standard deck.
 
 ## Definitions
