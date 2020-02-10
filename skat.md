@@ -1,4 +1,4 @@
-# name
+# Skat
 
 Rules adapted from https://www.pagat.com/schafkopf/skat.html
 
@@ -28,6 +28,7 @@ In order to know what you can bid, you need to know the game values and card poi
 The card points are
 
 | Card  | 7 | 8 | 9 | Q | K | 10 | A | J |
+|---|---|---|---|---|---|---|---|---|
 | Value | 0 | 0 | 0 | 3 | 4 | 10 | 11 | 2|
 
 The value of a Suit or Grand contract is obtained by multiplying the base value with the multiplier. The base values are in increasing suit order 9, 10, 11 and 12, and 24 for Grand.
