@@ -19,6 +19,7 @@ This repo aims to define rules of card games in an unambiguous way.
 |---| --- |
 | [Cuttle](cuttle.md) | 2 |
 | [Skat](skat.md) | 3 |
+| [Eleusis](eleusis.md) | 3+ |
 | [Euchre](euchre.md) | 4 |
 
 
