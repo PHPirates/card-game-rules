@@ -30,7 +30,7 @@ When it is your turn, you can play a sequence of cards of length 1 or more, atta
 
 * In the case cards were played, when the complete sequence is added to the table, the dealer will declare the complete sequence right or wrong, in the case of wrong without saying which cards are wrong.
     * When the sequence is right, they stay were they are.
-    * When the sequence is wrong, they will be moved sideways such that they are next to the present sequence (often it is practical to stack them in the same orientation when wrong sequences of 1 card are played, and turn them 90 degrees when a sequence of more than 1 card was wrong, to distinguish these two cases).
+    * When the sequence is wrong, they will be moved sideways such that they are next to the present sequence (see [logicmazes.com](http://www.logicmazes.com/games/eleusis/layout.gif) for an example) (often it is practical to stack them in the same orientation when wrong sequences of 1 card are played, and turn them 90 degrees when a sequence of more than 1 card was wrong, to distinguish these two cases).
     The player gets two penalty cards dealt for each wrong card played.
 * In the case of a 'no play', the cards are put open on the table and the dealer will check whether this call is correct.
     * If correct, and the player has n cards, the player will get a completely new hand dealt consisting of max(n-4,0) cards, i.e. the player will have no cards left if n <= 4.
