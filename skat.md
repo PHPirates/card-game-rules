@@ -81,9 +81,11 @@ When one of them passes, the rearhand can pass or bid, and if the rearhand bids 
 
 To remember whose turn it is to start the bidding, German players sometimes say "geben, hören, sagen" (deal, listen, speak), pointing in turn to dealer, forehand and middlehand.
 
+The player who won the bidding can first look at the skat if he wants, and then declares the game type. 
+
 ### Scoring
 
-If the declarer takes at least 61 card points and the value of the game is at least as much as the bid, then the value of the game is added to the declarer's cumulative score.
+If the declarer takes at least 61 card points (always including the skat) and the value of the game is at least as much as the bid, then the value of the game is added to the declarer's cumulative score.
 
 If the declarer takes 60 card points or less and the value of the game is as least as much as the bid, then twice the value of the game is subtracted from the declarer's score. 
 
