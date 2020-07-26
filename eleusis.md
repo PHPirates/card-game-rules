@@ -46,7 +46,7 @@ If he made a mistake when a player declared a 'no play', the player will get his
 
 #### Other rules
 On every 10th card played, put a white marker.
-The first sequence which starts with a card in the 41st position or higher if there are no black markers, or the 31st position or higher after the first black marker, will start a sudden death period: every player who does an action declared wrong (a sequence or no play) will be inactive until the round ends.
+The first sequence which starts with a card in the 41st position or higher if there are no black markers, or the 31st position or higher after the first black marker, will start a sudden death period: every player who does an action (a sequence or no play) which is wrong as determined by God (not the prophet, who will continue as a player if he makes a mistake) will be inactive until the round ends.
 
 The round ends when all players are inactive, or when one player has no cards anymore.
 
